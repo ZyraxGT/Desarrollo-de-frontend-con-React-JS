@@ -1,0 +1,77 @@
+/* Usuarios.css */
+
+/* Estilos generales */
+.container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Título principal */
+h1 {
+  text-align: center;
+  color: #1a202c;
+  margin-bottom: 2rem;
+}
+
+/* Tarjeta de usuario */
+.usuario-card {
+  border: 1px solid #e2e8f0;
+  background-color: #f7fafc;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  transition: box-shadow 0.2s ease;
+}
+
+.usuario-card:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Texto dentro de las tarjetas */
+.usuario-card h3 {
+  margin: 0;
+  color: #2d3748;
+}
+
+/* Estilos del buscador */
+.buscador-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.formulario-usuario {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.formulario-usuario input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  flex: 1;
+  min-width: 200px;
+}
+
+.formulario-usuario button {
+  padding: 10px 20px;
+  border: none;
+  background-color: #0077ff;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.paginacion {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
