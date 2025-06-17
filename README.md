@@ -62,7 +62,8 @@ Este es un proyecto frontend desarrollado en **ReactJS** como parte del proceso 
 
 ## 🧠 Autor
 
-**Nombre:** Zyrax (usuario del SENA)  
+**Nombre:** Juan Angel Rangel Cediel 
+**SENA ANALISIS Y DESARROLLO DE SOFTWARE**
 **Fecha:** Junio 2025  
 **Repositorio:** [GitHub](https://github.com/tu-usuario/proyecto-react)
 
